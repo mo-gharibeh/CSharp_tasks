@@ -11,6 +11,7 @@ namespace _25._06._2024
     {
         static void Main(string[] args)
         {
+            
             //1- Create console application that read string from user and print the same string
             Console.Write("Enter Your Name: ");
             string myName  = Console.ReadLine();
@@ -72,14 +73,12 @@ namespace _25._06._2024
             int[] arr = { 2, 5, 8 };
             int sum = arr[0] + arr[1] + arr[2];
             Console.WriteLine("Sum of all elements stored in the array is : " + sum);
+            
+             
 
-
-
-
-
-
-
-
+            
+             
+          
 
         }
     }
